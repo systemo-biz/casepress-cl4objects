@@ -2,6 +2,7 @@
 /*
 Plugin Name: CasePress. Выводит дел на странице объекта
 Description: Функции выводит на странице объекта все связанные дела. Объект должен быть указан через поле ACF (relationship) с ключем object.
+Plugin URI: https://github.com/systemo-biz/casepress-cl4objects
 Version: 1.0
 Author: Systemo
 */
